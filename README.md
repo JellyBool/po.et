@@ -79,3 +79,7 @@ It returns a collection of each `work` details `array` :
     ],
 ];
 ```
+
+### License
+
+MIT License.
