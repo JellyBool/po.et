@@ -1,0 +1,12 @@
+{
+    "name": "jellybool/po.et",
+    "description": "Po.et interactions with PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JellyBool",
+            "email": "jellybool@outlook.com"
+        }
+    ],
+    "require": {}
+}
