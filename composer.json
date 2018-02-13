@@ -1,6 +1,8 @@
 {
     "name": "jellybool/po.et",
-    "description": "Po.et interactions with PHP",
+    "keywords": ["php","po.et","poet","poe"],
+    "description": "Po.et PHP Integrations",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +10,12 @@
             "email": "jellybool@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "JellyBool\\Poet\\": "src/"
+        }
+    }
 }
