@@ -2,7 +2,7 @@
 
 ## Usage
 
-> Refer fronst before you start: https://docs.frost.po.et/docs/getting-started
+> Refer frost before you start: https://docs.frost.po.et/docs/getting-started
 
 ### Install
 ```
